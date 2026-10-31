@@ -2,7 +2,14 @@
 
 Готовый мультфильм: 2 минуты 33 секунды, 1280 × 720.
 
-## Скачать
+## Скачать обновлённую версию 2
+
+- [Мультфильм в полном качестве](https://github.com/zebra-beep/montagvideo/raw/refs/heads/main/Hop_Little_Bunny_v2.mp4)
+- [Облегчённая версия — около 23 МБ](https://github.com/zebra-beep/montagvideo/raw/refs/heads/main/Hop_Little_Bunny_v2_small.mp4)
+
+В версии 2 добавлены парящие цифры 1, 4 и 5 во всех припевных повторах. Кадры последнего счётного припева также соответствуют количеству кроликов. Усилены звуки природы и пение птицы, удалены логотипы сайтов. Для танца вокруг дерева выбран участок со стабильной окраской персонажей и плавно замедлен. Песня и субтитры сохранены целиком.
+
+## Скачать предыдущую версию 1
 
 - [Видео в полном качестве — около 60 МБ](https://github.com/zebra-beep/montagvideo/raw/refs/heads/main/Hop_Little_Bunny.mp4)
 - [Облегчённая версия — около 23 МБ](https://github.com/zebra-beep/montagvideo/raw/refs/heads/main/Hop_Little_Bunny_small.mp4)
