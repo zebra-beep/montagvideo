@@ -1,15 +1,31 @@
-# Hop, Hop, Little Bunny!
+# Мультфильмы
+
+## Baby Shark — подводная семья
+
+Готовый мультфильм: 1 минута 56 секунд, вертикальный формат 720 × 1280.
+
+- [Скачать в полном качестве](https://github.com/zebra-beep/montagvideo/raw/refs/heads/main/Baby_Shark.mp4)
+- [Скачать облегчённую версию — около 19 МБ](https://github.com/zebra-beep/montagvideo/raw/refs/heads/main/Baby_Shark_small.mp4)
+- [Английские субтитры SRT](https://github.com/zebra-beep/montagvideo/raw/refs/heads/main/Baby_Shark_subtitles.srt)
+
+Отобраны удачные участки сцен и единый формат. Добавлены цветные английские субтитры, подводный фон, пузырьки и мягкие звуки плавания. Логотипы Happy Horse удалены. Вся звучащая часть песни, включая музыкальное начало и окончание, сохранена; удалён только пустой хвост примерно на 20 секунд. Обе версии содержат одинаковое аудио; субтитры встроены в изображение.
+
+Аудио: Baby Shark Dance / Pinkfong, из предоставленного пользователем файла.
+
+---
+
+## Hop, Hop, Little Bunny!
 
 Готовый мультфильм: 2 минуты 33 секунды, 1280 × 720.
 
-## Скачать обновлённую версию 2
+### Скачать обновлённую версию 2
 
 - [Мультфильм в полном качестве](https://github.com/zebra-beep/montagvideo/raw/refs/heads/main/Hop_Little_Bunny_v2.mp4)
 - [Облегчённая версия — около 23 МБ](https://github.com/zebra-beep/montagvideo/raw/refs/heads/main/Hop_Little_Bunny_v2_small.mp4)
 
 В версии 2 добавлены парящие цифры 1, 4 и 5 во всех припевных повторах. Кадры последнего счётного припева также соответствуют количеству кроликов. Усилены звуки природы и пение птицы, удалены логотипы сайтов. Для танца вокруг дерева выбран участок со стабильной окраской персонажей и плавно замедлен. Песня и субтитры сохранены целиком.
 
-## Скачать предыдущую версию 1
+### Скачать предыдущую версию 1
 
 - [Видео в полном качестве — около 60 МБ](https://github.com/zebra-beep/montagvideo/raw/refs/heads/main/Hop_Little_Bunny.mp4)
 - [Облегчённая версия — около 23 МБ](https://github.com/zebra-beep/montagvideo/raw/refs/heads/main/Hop_Little_Bunny_small.mp4)
