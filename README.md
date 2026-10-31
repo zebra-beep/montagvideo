@@ -4,6 +4,17 @@
 
 Готовый мультфильм: 2 минуты, широкоформатный 1280 × 720, 24 кадра/с.
 
+### Версия 2 — новые сцены, Remotion CRF 16
+
+- [Скачать версию 2 высокого качества — около 110 МБ](https://github.com/zebra-beep/montagvideo/releases/download/jungle-train-v2/Jungle_Train_v2.mp4)
+- [Английские субтитры SRT](https://github.com/zebra-beep/montagvideo/releases/download/jungle-train-v2/Jungle_Train_v2_subtitles.srt)
+
+Пересобрано с перегенерированными фрагментами пользователя. Старые планы 608 × 352 заменены подходящими более чёткими исходниками; все выбранные файлы не меньше 1248 × 704. Сохранены моменты смены сцен и английские субтитры. Полная одобренная аудиодорожка перенесена без повторного кодирования. Логотипы очищены локально, рекламные концовки вырезаны, увеличение спящих персонажей уменьшено для сохранения деталей.
+
+Экспорт: Remotion, PNG-кадры, H.264 CRF 16, preset slow, без ограничения битрейта. CRF 16 означает высокое качество со сжатием с небольшими потерями. Основной файл размещён в релизе, поскольку превышает лимит обычного Git.
+
+### Предыдущая версия 1
+
 - [Скачать в полном качестве — около 65 МБ](https://github.com/zebra-beep/montagvideo/raw/refs/heads/main/Jungle_Train.mp4)
 - [Скачать облегчённую версию — около 20 МБ](https://github.com/zebra-beep/montagvideo/raw/refs/heads/main/Jungle_Train_small.mp4)
 - [Английские субтитры SRT](https://github.com/zebra-beep/montagvideo/raw/refs/heads/main/Jungle_Train_subtitles.srt)
