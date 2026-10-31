@@ -1,0 +1,195 @@
+1
+00:00:02,080 --> 00:00:04,380
+Chugga chugga choo choo!
+
+2
+00:00:04,640 --> 00:00:06,060
+Clickety clack, clickety clack!
+
+3
+00:00:06,840 --> 00:00:09,020
+Chugga chugga choo choo,
+rolling down the track!
+
+4
+00:00:09,100 --> 00:00:11,380
+Chugga chugga choo choo,
+clickety clack, clickety clack!
+
+5
+00:00:11,540 --> 00:00:13,540
+Beep-beep! Toot-toot!
+hear the engine roar!
+
+6
+00:00:13,880 --> 00:00:15,720
+Look out the window,
+let's hear some more!
+
+7
+00:00:15,920 --> 00:00:18,340
+The monkey on the train goes
+ooh-ooh, aah-aah!
+
+8
+00:00:18,400 --> 00:00:20,500
+Ooh-ooh, aah-aah!
+Ooh-ooh, aah-aah!
+
+9
+00:00:20,600 --> 00:00:22,880
+The monkey on the train goes
+ooh-ooh, aah-aah!
+
+10
+00:00:23,060 --> 00:00:24,800
+Riding through the jungle!
+
+11
+00:00:24,880 --> 00:00:27,400
+The lion on the train goes
+roar, roar, roar, roar!
+
+12
+00:00:27,400 --> 00:00:29,480
+Roar, roar, roar, roar!
+Roar, roar, roar, roar!
+
+13
+00:00:29,500 --> 00:00:31,920
+The lion on the train goes
+roar, roar, roar, roar!
+
+14
+00:00:32,140 --> 00:00:34,100
+Riding through the jungle!
+
+15
+00:00:34,580 --> 00:00:36,480
+Chugga chugga choo choo,
+rolling down the track!
+
+16
+00:00:36,880 --> 00:00:39,080
+Chugga chugga choo choo,
+clickety clack, clickety clack!
+
+17
+00:00:39,360 --> 00:00:41,240
+Beep-beep! Toot-toot!
+hear the engine roar!
+
+18
+00:00:41,640 --> 00:00:43,440
+Look out the window,
+let's hear some more!
+
+19
+00:00:43,720 --> 00:00:45,860
+The elephant on the train goes
+pa-woo, pa-woo!
+
+20
+00:00:46,000 --> 00:00:48,060
+Pawoo, pa-woo!
+Pawoo, pa-woo!
+
+21
+00:00:48,280 --> 00:00:50,500
+The elephant on the train goes
+pa-woo, pa-woo!
+
+22
+00:00:50,900 --> 00:00:52,560
+Riding through the jungle!
+
+23
+00:00:52,900 --> 00:00:55,200
+The little green frog goes
+ribbit ribbit, jump jump!
+
+24
+00:00:55,200 --> 00:00:57,400
+Ribbit ribbit, jump jump!
+Ribbit ribbit, jump jump!
+
+25
+00:00:57,400 --> 00:00:59,800
+The little green frog goes
+ribbit ribbit, jump jump!
+
+26
+00:00:59,820 --> 00:01:01,660
+Riding through the jungle!
+
+27
+00:01:06,980 --> 00:01:10,280
+Chugga chugga choo choo!
+
+28
+00:01:10,860 --> 00:01:14,280
+The train is getting sleepy...
+
+29
+00:01:14,600 --> 00:01:17,400
+Shh... Shh... Shh...
+
+30
+00:01:17,760 --> 00:01:20,360
+The monkey is sleeping...
+
+31
+00:01:21,040 --> 00:01:21,940
+Ooh ooh... Zzz...
+
+32
+00:01:22,100 --> 00:01:24,840
+The lion is sleeping...
+
+33
+00:01:25,100 --> 00:01:26,700
+Roar... Zzz...
+
+34
+00:01:26,840 --> 00:01:29,500
+The elephant is sleeping...
+
+35
+00:01:29,600 --> 00:01:31,250
+Pawoo... Zzz...
+
+36
+00:01:31,420 --> 00:01:34,980
+The little green frog is sleeping...
+
+37
+00:01:35,000 --> 00:01:36,340
+Ribbit... Zzz...
+
+38
+00:01:36,380 --> 00:01:38,440
+Chugga chugga choo...
+
+39
+00:01:38,440 --> 00:01:41,100
+Goodnight, Jungle Train!
+
+40
+00:01:42,700 --> 00:01:45,100
+Yay! Wake up!
+
+41
+00:01:46,600 --> 00:01:47,500
+Hey!
+
+42
+00:01:48,500 --> 00:01:50,100
+Hey, hey, hey!
+
+43
+00:01:51,200 --> 00:01:54,300
+Yeah, yeah, yeah!
+
+44
+00:01:56,300 --> 00:01:58,400
+Yay! Wake up!
