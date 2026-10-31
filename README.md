@@ -4,6 +4,15 @@
 
 Готовый мультфильм: 2 минуты 52 секунды, квадратный формат 960 × 960.
 
+### Обновлённая версия 2
+
+- [Скачать версию 2 в полном качестве — около 72 МБ](https://github.com/zebra-beep/montagvideo/raw/refs/heads/main/Bath_Song_v2.mp4)
+- [Скачать облегчённую версию 2 — около 28 МБ](https://github.com/zebra-beep/montagvideo/raw/refs/heads/main/Bath_Song_v2_small.mp4)
+
+Во всех повторах заменены исходники 2, 4 и 25 новыми дублями пользователя: вход в ванную, игра в ванне и зеркало. Удалены логотипы Vidful.ai и дочищены остатки надписей в других сценах. Аудиодорожка и субтитры сохранены без изменений.
+
+### Предыдущая версия 1
+
 - [Скачать в полном качестве — около 75 МБ](https://github.com/zebra-beep/montagvideo/raw/refs/heads/main/Bath_Song.mp4)
 - [Скачать облегчённую версию — около 28 МБ](https://github.com/zebra-beep/montagvideo/raw/refs/heads/main/Bath_Song_small.mp4)
 - [Английские субтитры SRT](https://github.com/zebra-beep/montagvideo/raw/refs/heads/main/Bath_Song_subtitles.srt)
