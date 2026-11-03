@@ -4,8 +4,12 @@
 
 Горизонтальный мультфильм: 1920 × 1080, 16:9, 30 кадров/с, 3 минуты 2 секунды.
 
-- [Скачать финальный MP4 — Remotion CRF 16](https://media.githubusercontent.com/media/zebra-beep/montagvideo/main/Old_Farmer_CR16.mp4)
+- [Скачать исправленную версию 2 — Remotion CRF 16](https://media.githubusercontent.com/media/zebra-beep/montagvideo/main/Old_Farmer_v2_CR16.mp4)
 - [Английские субтитры SRT](https://github.com/zebra-beep/montagvideo/raw/refs/heads/main/Old_Farmer_subtitles.srt)
+
+Версия 2: заметнее природный фон и голоса животных. Громкость песни сохранена на уровне версии 1, автоматического приглушения песни нет. Дополнительно очищена периодически появляющаяся полупрозрачная четырёхлучевая звёздочка в сборных исходниках; остальные пиксели этих исходников вне небольшой области восстановления сохранены без изменений.
+
+Дополнительные отдельные записи животных: Chickens demanding food (alys, public domain), Sheep bleat (CC0), peaceful sound of a herd of cows in the Swiss Alps (Florian Reichelt, CC0), через Wikimedia Commons. Запись [Pig grunt — Erdie](https://commons.wikimedia.org/wiki/File:Pig_grunt_-_Erdie.ogg), автор erdie, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/): выбраны короткие фрагменты, отрегулированы уровни и края, запись включена в фон.
 
 38 отобранных фрагментов смонтированы по фактически исполненной песне Busy Little Farm. Вся песня сохранена целиком; к ней тихо добавлены птицы, вечерние сверчки и звуки животных из предоставленных сцен. Английские субтитры сверены с исполнением, включая повторы припева.
 
