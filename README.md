@@ -1,5 +1,22 @@
 # Мультфильмы
 
+## Amber Dream in Budapest — Янтарная мечта в Будапеште
+
+Русская и английская версии одного ролика: 1080 × 1920, вертикальный 9:16, 24 кадра/с, 60,5 секунд.
+
+- [Скачать русскую версию — CRF 16](https://media.githubusercontent.com/media/zebra-beep/montagvideo/main/Amber_Budapest_RU_CR16.mp4)
+- [Скачать английскую версию — CRF 16](https://media.githubusercontent.com/media/zebra-beep/montagvideo/main/Amber_Budapest_EN_CR16.mp4)
+- [Русские субтитры SRT](https://github.com/zebra-beep/montagvideo/raw/refs/heads/main/Amber_Budapest_RU_subtitles.srt)
+- [English subtitles SRT](https://github.com/zebra-beep/montagvideo/raw/refs/heads/main/Amber_Budapest_EN_subtitles.srt)
+
+12 отобранных сцен с Ванессой: Дунай, дворцовая лестница, Рыбацкий бастион, Будайская крепость, Цепной мост и вечерняя панорама. Обе версии используют один монтаж. Все 12 русских и 12 английских реплик взяты из соответствующих файлов сценария и сохранены целиком; женские синтезированные голоса Svetlana и Sonia. На передачу 24 реплик Microsoft Edge TTS получено отдельное согласие автора.
+
+Исходное аудио видеосцен полностью удалено. В музыкальном фоне используется только предоставленный MP3 Amber Waltz — usesuno.com, с плавным началом и окончанием выбранного фрагмента. Дополнительно тихо добавлены птицы, шаги по камню, речной ветер, вечерняя вода и короткий акцент янтарного сияния. Музыка и эффекты ниже речи. Птицы: [Google Sound Library — Animals](https://developers.google.com/assistant/tools/sound-library/animals), june_songbirds; остальные акценты синтезированы для монтажа.
+
+Угловые отметки CapCut AI очищены локально без обрезки героини. Источники — 768 × 1366, 24 кадра/с; увеличение до Full HD не создаёт отсутствующих деталей. Исходные MP4 подготовлены при CRF 0 без потерь, финальный экспорт Remotion — PNG-кадры, H.264 CRF 16, preset slow, без ограничения битрейта видео, AAC 320 кбит/с. CRF 16 — сжатие высокого качества с небольшими потерями. Видео хранятся в Git LFS; для скачивания устанавливать Git LFS не нужно.
+
+---
+
 ## Amber Rose Dream in Prague — Янтарная мечта в Праге
 
 Две языковые версии одного мультфильма: 1080 × 1920, 9:16, 24 кадра/с, 1 минута 5 секунд.
