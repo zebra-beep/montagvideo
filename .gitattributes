@@ -5,3 +5,4 @@ Bus_Song_CR16.mp4 filter=lfs diff=lfs merge=lfs -text
 SuperZebra_Promo_CR16.mp4 filter=lfs diff=lfs merge=lfs -text
 Amber_Rose_RU_CR16.mp4 filter=lfs diff=lfs merge=lfs -text
 Amber_Rose_EN_CR16.mp4 filter=lfs diff=lfs merge=lfs -text
+SuperZebra_Promo_EN_CR16.mp4 filter=lfs diff=lfs merge=lfs -text

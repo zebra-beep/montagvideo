@@ -23,8 +23,13 @@ Remotion: H.264 CRF 16, preset slow, PNG-кадры без промежуточ�
 
 Вертикальная реклама: 1080 × 1920, 9:16, 30 кадров/с, около 39 секунд.
 
-- [Скачать рекламу — Remotion CRF 16](https://media.githubusercontent.com/media/zebra-beep/montagvideo/main/SuperZebra_Promo_CR16.mp4)
+- [Скачать русскую рекламу — Remotion CRF 16](https://media.githubusercontent.com/media/zebra-beep/montagvideo/main/SuperZebra_Promo_CR16.mp4)
 - [Русские субтитры SRT](https://github.com/zebra-beep/montagvideo/raw/refs/heads/main/SuperZebra_Promo_subtitles.srt)
+- [Скачать английскую рекламу — Remotion CRF 16](https://media.githubusercontent.com/media/zebra-beep/montagvideo/main/SuperZebra_Promo_EN_CR16.mp4)
+- [English subtitles SRT](https://github.com/zebra-beep/montagvideo/raw/refs/heads/main/SuperZebra_Promo_EN_subtitles.srt)
+
+Английская версия: тот же монтаж из семи сцен, около 39 секунд, женская озвучка Sonia, английские надписи и субтитры. Присланный английский текст адаптирован к краткому формату русской рекламы; сохранены Ванесса, кот-дизайнер, авторская анимация, идеи подписчиков, приглашение на @SuperZebra и финальная шутка. Музыкальная подложка и параметры экспорта совпадают с русской версией.
+
 
 Семь предоставленных сцен с котом-дизайнером, включая оживающий рисунок и выбор идеи для следующего мультфильма. Каждый исходник использован один раз. Исходный рекламный текст сокращён с разрешения автора до знакомства с Ванессой, описания канала и приглашения подписаться на @SuperZebra; финальная шутка о главном коте сохранена.
 
