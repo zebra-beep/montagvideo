@@ -1,0 +1,191 @@
+1
+00:00:06,100 --> 00:00:07,950
+Hello, hello, the bubbles are here!
+
+2
+00:00:08,300 --> 00:00:09,950
+Tiny bubbles floating near!
+
+3
+00:00:10,200 --> 00:00:11,950
+Froggy, Ducky, Kitty too,
+
+4
+00:00:12,250 --> 00:00:13,900
+Butterfly, come dance with you!
+
+5
+00:00:14,450 --> 00:00:15,950
+Bubble up, bubble high,
+
+6
+00:00:16,150 --> 00:00:17,900
+Little bubbles in the sky!
+
+7
+00:00:18,200 --> 00:00:19,950
+Wiggle left and wiggle right,
+
+8
+00:00:20,100 --> 00:00:21,900
+Watch them sparkle, shiny bright!
+
+9
+00:00:22,150 --> 00:00:23,950
+Pop, pop, pop — clap your hands!
+
+10
+00:00:24,100 --> 00:00:25,950
+Hop, hop, hop — now make a stand!
+
+11
+00:00:26,100 --> 00:00:27,950
+Turn around and touch your toes,
+
+12
+00:00:28,150 --> 00:00:29,280
+Where the next bubble goes,
+
+13
+00:00:29,280 --> 00:00:31,400
+Nobody, nobody knows!
+
+14
+00:00:31,440 --> 00:00:33,760
+Bubble pop, bubble pop,
+
+15
+00:00:33,760 --> 00:00:35,740
+Dance until the bubbles drop!
+
+16
+00:00:35,740 --> 00:00:37,760
+Pop to the left, pop to the right,
+
+17
+00:00:37,760 --> 00:00:39,800
+Bubble dancing feels so right!
+
+18
+00:00:39,800 --> 00:00:41,740
+Bubble pop, bubble pop,
+
+19
+00:00:41,740 --> 00:00:43,700
+Clap your hands and never stop!
+
+20
+00:00:43,700 --> 00:00:46,160
+One, two, three — POP with me!
+
+21
+00:00:46,160 --> 00:00:48,180
+Happy as can be!
+
+22
+00:00:51,100 --> 00:00:53,180
+Froggy jumps — boing, boing, boing!
+
+23
+00:00:53,180 --> 00:00:55,120
+Ducky quacks — join, join, join!
+
+24
+00:00:55,120 --> 00:00:57,180
+Kitty wiggles — swish, swish, swish!
+
+25
+00:00:57,180 --> 00:00:59,080
+Butterfly makes a rainbow wish!
+
+26
+00:00:59,080 --> 00:01:01,500
+Big bubble, small bubble, floating around,
+
+27
+00:01:01,800 --> 00:01:03,500
+Bubbles go up, bubbles go down!
+
+28
+00:01:03,800 --> 00:01:05,500
+Reach up high, then touch the ground,
+
+29
+00:01:05,500 --> 00:01:07,550
+Pop a bubble — spin around!
+
+30
+00:01:09,300 --> 00:01:11,380
+Bubble pop, bubble pop,
+
+31
+00:01:11,380 --> 00:01:13,280
+Dance until the bubbles drop!
+
+32
+00:01:13,280 --> 00:01:15,320
+Pop to the left, pop to the right,
+
+33
+00:01:15,320 --> 00:01:17,300
+Bubble dancing feels so right!
+
+34
+00:01:17,300 --> 00:01:19,260
+Bubble pop, bubble pop,
+
+35
+00:01:19,260 --> 00:01:21,160
+Clap your hands and never stop!
+
+36
+00:01:21,160 --> 00:01:23,620
+One, two, three — POP with me!
+
+37
+00:01:23,620 --> 00:01:25,580
+Happy as can be!
+
+38
+00:01:29,000 --> 00:01:30,080
+Wiggle, wiggle!
+
+39
+00:01:30,080 --> 00:01:31,080
+Clap, clap, clap!
+
+40
+00:01:31,080 --> 00:01:32,050
+Hop, hop, hop!
+
+41
+00:01:32,050 --> 00:01:33,020
+Tap, tap, tap!
+
+42
+00:01:33,120 --> 00:01:34,970
+Freeze like a statue — one, two, three!
+
+43
+00:01:35,100 --> 00:01:36,980
+Now pop a bubble — POP with me!
+
+44
+00:01:41,000 --> 00:01:44,650
+La-la-la, la-la-la!
+
+45
+00:01:44,800 --> 00:01:47,950
+Bye-bye bubbles, float away,
+
+46
+00:01:48,450 --> 00:01:51,950
+We will dance another day!
+
+47
+00:01:52,800 --> 00:01:54,600
+Froggy, Ducky, Kitty too,
+
+48
+00:01:54,600 --> 00:01:56,550
+Butterfly says bye to you!
