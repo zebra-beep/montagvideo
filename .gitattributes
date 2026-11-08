@@ -12,3 +12,4 @@ Amber_Budapest_EN_CR16.mp4 filter=lfs diff=lfs merge=lfs -text
 Bubble_Pop_Dance_FullHD_CR16.mp4 filter=lfs diff=lfs merge=lfs -text
 videos/splash-splash-little-duck/Splash_Splash_Little_Duck_EN_CR16.mp4 filter=lfs diff=lfs merge=lfs -text
 videos/splash-splash-little-duck/Splash_Splash_Little_Duck_EN_Characters_v2_CR16.mp4 filter=lfs diff=lfs merge=lfs -text
+videos/splash-splash-little-duck/Splash_Splash_Little_Duck_EN_Reedit_v3_CR16.mp4 filter=lfs diff=lfs merge=lfs -text
