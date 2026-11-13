@@ -19,3 +19,7 @@ videos/arctic-rose-dream-greenland/Arctic_Rose_Dream_RU_CR16.mp4 filter=lfs diff
 videos/arctic-rose-dream-greenland/Arctic_Rose_Dream_EN_CR16.mp4 filter=lfs diff=lfs merge=lfs -text
 
 videos/who-is-purring/Who_Is_Purring_EN_CR16.mp4 filter=lfs diff=lfs merge=lfs -text
+
+videos/aurora-dream-finland/Aurora_Dream_RU_CR16.mp4 filter=lfs diff=lfs merge=lfs -text
+
+videos/aurora-dream-finland/Aurora_Dream_EN_CR16.mp4 filter=lfs diff=lfs merge=lfs -text
