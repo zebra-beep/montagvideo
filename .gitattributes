@@ -35,3 +35,5 @@ videos/aurora-mist-iceland-coast/Aurora_Mist_Dream_EN_CR16.mp4 filter=lfs diff=l
 videos/aurora-pearl-lapland/Aurora_Pearl_Dream_RU_CR16.mp4 filter=lfs diff=lfs merge=lfs -text
 
 videos/aurora-pearl-lapland/Aurora_Pearl_Dream_EN_CR16.mp4 filter=lfs diff=lfs merge=lfs -text
+
+videos/owlet-who-is-hooting/Owlet_Who_Is_Hooting_EN_CR16.mp4 filter=lfs diff=lfs merge=lfs -text
