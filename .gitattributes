@@ -41,3 +41,7 @@ videos/owlet-who-is-hooting/Owlet_Who_Is_Hooting_EN_CR16.mp4 filter=lfs diff=lfs
 videos/black-dream-seoul/Black_Dream_in_Seoul_RU_CR16.mp4 filter=lfs diff=lfs merge=lfs -text
 
 videos/black-dream-seoul/Black_Dream_in_Seoul_EN_CR16.mp4 filter=lfs diff=lfs merge=lfs -text
+
+videos/blue-crystal-alaska/Blue_Crystal_Dream_RU_CR16.mp4 filter=lfs diff=lfs merge=lfs -text
+
+videos/blue-crystal-alaska/Blue_Crystal_Dream_EN_CR16.mp4 filter=lfs diff=lfs merge=lfs -text
