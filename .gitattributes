@@ -51,3 +51,7 @@ videos/blue-dream-santorini/Blue_Dream_Santorini_RU_CR16.mp4 filter=lfs diff=lfs
 videos/blue-dream-santorini/Blue_Dream_Santorini_EN_CR16.mp4 filter=lfs diff=lfs merge=lfs -text
 
 videos/butterfly-stole-the-brooch/Butterfly_Stole_the_Brooch_CR16.mp4 filter=lfs diff=lfs merge=lfs -text
+
+videos/blue-jasmine-india/Blue_Jasmine_Dream_India_RU_CR16.mp4 filter=lfs diff=lfs merge=lfs -text
+
+videos/blue-jasmine-india/Blue_Jasmine_Dream_India_EN_CR16.mp4 filter=lfs diff=lfs merge=lfs -text
