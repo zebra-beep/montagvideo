@@ -55,3 +55,7 @@ videos/butterfly-stole-the-brooch/Butterfly_Stole_the_Brooch_CR16.mp4 filter=lfs
 videos/blue-jasmine-india/Blue_Jasmine_Dream_India_RU_CR16.mp4 filter=lfs diff=lfs merge=lfs -text
 
 videos/blue-jasmine-india/Blue_Jasmine_Dream_India_EN_CR16.mp4 filter=lfs diff=lfs merge=lfs -text
+
+videos/blue-lotus-bali/Blue_Lotus_Dream_Bali_RU_CR16.mp4 filter=lfs diff=lfs merge=lfs -text
+
+videos/blue-lotus-bali/Blue_Lotus_Dream_Bali_EN_CR16.mp4 filter=lfs diff=lfs merge=lfs -text
