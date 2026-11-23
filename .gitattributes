@@ -63,3 +63,7 @@ videos/blue-lotus-bali/Blue_Lotus_Dream_Bali_EN_CR16.mp4 filter=lfs diff=lfs mer
 videos/celestial-blue-portugal/Celestial_Blue_Dream_Portugal_RU_CR16.mp4 filter=lfs diff=lfs merge=lfs -text
 
 videos/celestial-blue-portugal/Celestial_Blue_Dream_Portugal_EN_CR16.mp4 filter=lfs diff=lfs merge=lfs -text
+
+videos/celestial-gold-rome/Celestial_Gold_Dream_Rome_RU_CR16.mp4 filter=lfs diff=lfs merge=lfs -text
+
+videos/celestial-gold-rome/Celestial_Gold_Dream_Rome_EN_CR16.mp4 filter=lfs diff=lfs merge=lfs -text
